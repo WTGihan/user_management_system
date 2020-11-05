@@ -1,0 +1,1 @@
+1.When input field go to outer of the border I have to add to box-sizing rule to css file
